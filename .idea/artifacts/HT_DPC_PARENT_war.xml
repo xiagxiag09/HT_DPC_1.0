@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="HT_DPC_PARENT:war">
+    <output-path>$PROJECT_DIR$/HT_DPC_PARENT/target</output-path>
+    <root id="archive" name="HT_DPC_PARENT.war">
+      <element id="artifact" artifact-name="HT_DPC_PARENT:war exploded" />
+    </root>
+  </artifact>
+</component>
